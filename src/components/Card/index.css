@@ -1,0 +1,25 @@
+.card {
+    height: auto;
+    width: 22rem;
+    border: 1px lightgray solid;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: #fff;
+  }
+  .card-image {
+    margin-top: 5px;
+    width: 22rem;
+    height: 15rem;
+  }
+  .card-body {
+    padding: 10px;
+    text-align: left;
+  }
+  .para{
+    font-size: 16px;
+    color: gray;
+    margin: 10px;
+  }
+  .product-title{
+    margin: 10px;
+  }

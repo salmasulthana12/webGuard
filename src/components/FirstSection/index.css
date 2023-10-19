@@ -1,0 +1,98 @@
+.web-container {
+  padding-top: 60px;
+  background-color: #f2f2f2;
+}
+.btn-style {
+  background-color: #07a307;
+  color: white;
+  width: 160px;
+  height: 30px;
+  text-align: center;
+  border-width: 0;
+  margin: 10px;
+  border-radius: 14px;
+}
+
+.btn-white {
+  background-color: white;
+  color: black;
+  width: 135px;
+  height: 30px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 14px;
+}
+.web-card {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+  align-items: center;
+}
+.heading {
+  width: 50%;
+}
+
+.card1-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+.card1 {
+  background-color: #fff;
+  color: #222;
+  width: 160px;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 5px;
+  transform: rotate(-4deg);
+  position: relative;
+  cursor: pointer;
+}
+.card2 {
+  background-color: #fff;
+  color: #222;
+  width: 160px;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 5px;
+  transform: rotate(7deg);
+  position: relative;
+  cursor: pointer;
+}
+.card3 {
+  background-color: #fff;
+  color: #222;
+  width: 160px;
+  padding: 1.5rem;
+  text-align: center;
+  border-radius: 5px;
+  transform: rotate(1deg);
+  position: relative;
+  cursor: pointer;
+}
+.card1:hover {
+  width: 180px;
+  height: auto;
+  background: white;
+  transition: width 2s, height 4s;
+  opacity: 1;
+  z-index: 1;
+}
+.card2:hover {
+  width: 180px;
+  height: auto;
+  background: white;
+  transition: width 2s, height 4s;
+  opacity: 1;
+  z-index: 1;
+}
+.card3:hover {
+  width: 180px;
+  height: auto;
+  background: white;
+  transition: width 2s, height 4s;
+  opacity: 1;
+  z-index: 1;
+}

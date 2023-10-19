@@ -1,0 +1,27 @@
+.security-section {
+  background-color: #fff;
+  padding-bottom: 3rem;
+}
+.security-card {
+  background-color: #f2f2f2;
+  width: 50%;
+  height: 22rem;
+  overflow: hidden;
+}
+.card-sect {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
+.sec-section {
+  width: 23rem;
+  height: 18rem;
+  background-color: #f2f2f2;
+  margin-top: 10px;
+  overflow: hidden;
+}
+.tab-img {
+  width: 80%;
+  /* height: 16rem; */
+  /* margin-top: 2rem; */
+}

@@ -1,0 +1,56 @@
+.pack {
+  width: 50%;
+  display: flex;
+  margin-top: 10px;
+}
+.pack-card {
+  height: auto;
+  width: 80%;
+  border: 0.5px solid #f2f2f2;
+  border-radius: 5px;
+  border-right: #fff;
+  background-color: #fff;
+  text-align: left;
+  padding-left: 10px;
+}
+.pack-green {
+  background-color: #07a307;
+  color: #fff;
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+}
+.pack-heading {
+  margin-left: 1rem;
+}
+.pack-para {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+.pack-text {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+.pack-img {
+  height: 0.5rem;
+  width: 0.5rem;
+  background-color: #f2f2f2;
+}
+.pack-img-card {
+  background: #f2f2f2;
+  height: 1.5rem;
+  width: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.pack-top {
+  display: flex;
+  margin-top: 1rem;
+}
+.pack-data {
+  padding-left: 10px;
+}
